@@ -7,10 +7,10 @@ Rave hypertext is a small web-art piece inspired by early net.art and rave cultu
 
 Assets created by me:
 - index.html - homepage with non-linear navigation ([TUNER], [CHAT], [TAPE])
-- forum.html — fragmented forum using <details> / <summary>
-- media.html — page displaying my GIMP GIF
-- css/style.css — main stylesheet (layout, colour, glitch text)
-- images/emoji.gif — GIF drawn + animated by me in GIMP
+- forum.html - fragmented forum using <details> / <summary>
+- media.html - page displaying my GIMP GIF
+- css/style.css - main stylesheet (layout, colour, glitch text)
+- images/emoji.gif - GIF drawn + animated by me in GIMP
 - All written text + page structure
 
 Sourced material:
