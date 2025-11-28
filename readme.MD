@@ -64,5 +64,4 @@ If I had more time I would:
 - Create more hand-drawn GIMP GIFs (stickers, flyers, mascots) and scatter them around the site to make it feel denser and more chaotic.
 - Experiment with very light JavaScript just for randomising which thread or GIF you land on first, to push the non-linear feeling even further.
 
-Bibliography:
 
