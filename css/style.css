@@ -1,0 +1,68 @@
+/* Week-04 reset: stops padding breaking width calculations */
+* {
+  box-sizing: border-box;
+}
+
+/* Black background + lime text = basic rave-poster vibe */
+body {
+  background-color: black;
+  color: lime;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Glitch title: simple keyframe we copied in Week-03 */
+.glitch {
+  font-size: 2.5em;
+  color: magenta;
+  text-shadow: 2px 2px lime, -2px -2px cyan;
+  animation: flicker 1s infinite;
+}
+
+/* Only 3 steps so it stays jerky – low-tech but works */
+@keyframes flicker {
+  0% { opacity: 1; }
+  50% { opacity: 0.75; }
+  100% { opacity: 1; }
+}
+
+.flyer-wall {
+  margin-top: 40px;
+}
+
+/* Hotspots: big square brackets feel more y2k than emojis */
+.hotspot {
+  font-size: 1.8em;
+  margin: 15px;
+  color: magenta;
+  text-decoration: none;
+  display: inline-block;
+  transition: transform 0.2s; /* hover grow from Week-03 demo */
+}
+
+.hotspot:hover {
+  transform: scale(1.1);
+  color: lime;
+}
+
+.room {
+  margin-top: 80px;
+  border: 1px dashed magenta; /* dashed = photocopier vibe */
+  padding: 20px;
+}
+
+.thread details {
+  margin-bottom: 10px;
+  color: cyan;
+}
+
+.back {
+  color: lime;
+}
+
+.gif-wall img {
+  width: 250px;
+  margin: 10px;
+  border: 2px solid magenta; /* cheap sticker border */
+}
