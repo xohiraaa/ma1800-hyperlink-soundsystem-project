@@ -6,7 +6,7 @@ https://xohiraaa.github.io/ma1800-hyperlink-soundsystem-project/
 Rave hypertext is a small web-art piece inspired by early net.art and rave culture. Instead of a normal linear website, it works like a fragmented space you can click around: a tuner, an empty forum and a small media room.
 
 Assets created by me:
-- index.html — homepage with non-linear navigation ([TUNER], [CHAT], [TAPE])
+- index.html - homepage with non-linear navigation ([TUNER], [CHAT], [TAPE])
 - forum.html — fragmented forum using <details> / <summary>
 - media.html — page displaying my GIMP GIF
 - css/style.css — main stylesheet (layout, colour, glitch text)
