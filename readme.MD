@@ -15,7 +15,7 @@ Assets created by me:
 
 Sourced material:
 - audio/ tvstatic.mp3 - short static sound used in tuner.
-sourced from: tvstatic sourced online: https://youtu.be/um6_q5cC154?si=X0L_526Uqhbfj6Cf 
+sourced from: https://youtu.be/um6_q5cC154?si=X0L_526Uqhbfj6Cf 
 
 How to open:
 Either:
